@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">田中のメモ</string>
+    <string name="tv_lb_name">選択されたメモ</string>
+    <string name="tv_name">未選択</string>
+    <string name="tv_lb_note">内容</string>
+    <string name="btn_save">保存</string>
+    <string name="action_add">追加</string>
+    <string name="emptyAlert">タイトルが空白です！</string>
+    <string name="deleteMsg">メモを削除しました。</string>
+    <string name="btn_delete">削除</string>
+</resources>

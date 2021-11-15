@@ -9,6 +9,7 @@
 
     <EditText
         android:id="@+id/etTitle"
+        android:hint="@string/title_hint"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="0.2"
@@ -25,6 +26,7 @@
 
     <EditText
         android:id="@+id/etContent"
+        android:hint="@string/content_hint"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="0.8"

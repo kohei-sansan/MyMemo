@@ -8,4 +8,6 @@
     <string name="emptyAlert">タイトルが空白です！</string>
     <string name="deleteMsg">メモを削除しました。</string>
     <string name="btn_delete">削除</string>
+    <string name="title_hint">タイトル</string>
+    <string name="content_hint">内容</string>
 </resources>
